@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: Minimalistic
+title: Welcome to My Portfolio homepage!
+description: Follow me for any updates on my profile and projects I'm currently working with.
 
 You can use the [editor on GitHub](https://github.com/victorpadillalemus/portfolio_cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
